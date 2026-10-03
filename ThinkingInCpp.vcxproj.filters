@@ -27,5 +27,11 @@
     <ClCompile Include="C02_Concat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C02_Numconv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C02_CallHello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
