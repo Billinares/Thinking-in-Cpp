@@ -33,5 +33,8 @@
     <ClCompile Include="C02_CallHello.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C02_HelloStrings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
