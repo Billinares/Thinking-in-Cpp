@@ -36,5 +36,17 @@
     <ClCompile Include="C02_HelloStrings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C02_Scopy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C02_Fillvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C02_GetWords.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C02_Intvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
