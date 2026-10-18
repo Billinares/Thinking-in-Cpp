@@ -48,5 +48,11 @@
     <ClCompile Include="C02_Intvector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C03_Return.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C03_Ifthen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
