@@ -54,5 +54,17 @@
     <ClCompile Include="C03_Ifthen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C03_Guess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C03_Guess2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C03_Charlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C03_Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
